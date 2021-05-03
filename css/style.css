@@ -8,6 +8,7 @@
 
 body {
   width: 1440px;
+  margin: 0 auto;
   background-color: #f3f3f3;
 }
 .hero-sec {
